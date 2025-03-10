@@ -66,6 +66,8 @@
    ```
    where `<path_to_config_file>` is the path to the configuration file.
 
+'weighs quite a bit in size - small warning
+
 Useful resources:
 - [LibTorch RL Implementation](#)
 - [DQN Theory](#)
