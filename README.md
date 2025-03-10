@@ -1,4 +1,3 @@
-```markdown
 # Sharp Vehicle
     
 "Sharp Vehicle" is a comprehensive application that demonstrates the capabilities of autonomous vehicle control in a simulated environment. The project combines a graphics component implemented using OpenGL with a neural network based on the DQN algorithm, developed using LibTorch for C++ and accelerated through CUDA. Additionally, the project integrates extra components such as input handling via Powershell and the use of auxiliary libraries for managing configurations, timers, and visual effects.
@@ -73,4 +72,3 @@ Useful resources:
 - [DQN Theory](#)
 - [DQN Basics](#)
 - [DQN for Continuous Control Tasks](#)
-```
