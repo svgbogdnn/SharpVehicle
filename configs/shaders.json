@@ -1,0 +1,30 @@
+[
+    {
+        "name": "DEFAULT",
+        "folder": "../shader",
+        "vertex": "default.vert",
+        "fragment": "default.frag"
+    },
+    {
+        "name": "SKYBOX",
+        "folder": "../shader",
+        "vertex": "skybox.vert",
+        "fragment": "skybox.frag"
+    },
+    {
+        "name": "BBOX",
+        "folder": "../shader",
+        "vertex": "bbox.vert",
+        "fragment": "bbox.frag"
+    },
+    {
+        "name": "INTERSECTION",
+        "folder": "../shader",
+        "compute": "collision_intersection.comp"
+    },
+    {
+        "name": "RAY_INTERSECTION",
+        "folder": "../shader",
+        "compute": "ray_intersection.comp"
+    }
+]

@@ -1,0 +1,36 @@
+===== Development list for project =====
+
+=== CPP core ===
+
+[x] Serialize models data
+
+Code refactor (IN PROGRESS):
+[] Forward declarations
+[] Const methods
+[] Copy by value -> pass by const reference
+[] All variables in classes must be initialized in ctors
+
+Config refactor (IN PROGRESS):
+[x] Divide in different config files
+[] Repair config handler
+[x] Model loading time
+
+=== JSON format ===
+
+[] Check for same names in JSON, error if name already exists
+[x] Combine models in obstacle set, car, env in JSON
+
+=== Graphics ===
+
+[x] Multisampling
+[] OpenGL calls improvement
+[] Collision
+[] Blending order sorted
+[] PBR for car model
+[] Light sources
+[] Free camera
+[x] Fix lines in AABB
+
+=== Issues ===
+
+[] Max FPS problem

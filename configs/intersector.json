@@ -1,0 +1,16 @@
+[
+    {
+        "type": "COLLISION",
+        "shader": {
+            "default": "INTERSECTION"
+        },
+        "enabled": true
+    },
+    {
+        "type": "RAY_DISTANCE",
+        "shader": {
+            "default": "RAY_INTERSECTION"
+        },
+        "enabled": true
+    }
+]
